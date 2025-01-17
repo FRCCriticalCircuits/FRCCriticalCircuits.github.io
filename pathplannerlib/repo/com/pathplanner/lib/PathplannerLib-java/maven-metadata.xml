@@ -3,11 +3,11 @@
   <groupId>com.pathplanner.lib</groupId>
   <artifactId>PathplannerLib-java</artifactId>
   <versioning>
-    <latest>2025.2.1</latest>
-    <release>2025.2.1</release>
+    <latest>2025.2.2-modified</latest>
+    <release>2025.2.2-modified</release>
     <versions>
-      <version>2025.2.1</version>
+      <version>2025.2.2-modified</version>
     </versions>
-    <lastUpdated>20250117031609</lastUpdated>
+    <lastUpdated>20250117032706</lastUpdated>
   </versioning>
 </metadata>

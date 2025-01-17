@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pathplanner.lib</groupId>
   <artifactId>PathplannerLib-cpp</artifactId>
-  <version>2025.2.1</version>
+  <version>2025.2.2-modified</version>
   <packaging>pom</packaging>
 </project>
